@@ -1,4 +1,4 @@
-# Generate a LAMP stack to develop using Docker and Docker compose
+# LAMP stack to develop using Docker
 
 ## Installation
 1. Clone repo
